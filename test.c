@@ -4,7 +4,7 @@ int main(){
 
 
   int a = 1000;
-
+  int aa = 9;
   for (a; a > 0; a = a - 5){
 
     printf("a = %d\n", a);
